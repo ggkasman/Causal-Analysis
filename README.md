@@ -21,5 +21,6 @@ Key assumptions underlying the analysis include unconfoundedness and overlap, wh
 
 Feel free to explore the repository and delve into the code and analysis files to gain a comprehensive understanding of the project's findings and implications.
 
-Note: This README is a summary of the project's content and aims to provide an overview for readers. 
+Note: This README is a summary of the project's content and aims to provide an overview for readers.
+
 For in-depth details and analyses, refer to the project's specific R files and associated documents in the repository.
